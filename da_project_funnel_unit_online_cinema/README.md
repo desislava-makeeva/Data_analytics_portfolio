@@ -1,6 +1,6 @@
 # Анализ убыточности маркетинга и юнит-экономики онлайн-кинотеатра
 
-**Ссылка на проект:** `[https://docs.google.com/spreadsheets/d/1uEHsxrMBgpBxcNpOC9pNrum8RIJJSPS1J437XZrMFnY/edit?gid=302097316#gid=302097316]`
+**Ссылка на проект:** [https://docs.google.com/spreadsheets/d/1uEHsxrMBgpBxcNpOC9pNrum8RIJJSPS1J437XZrMFnY/edit?gid=302097316#gid=302097316]
 
 **Цель проекта:** 
 Выявить причины убыточности рекламных кампаний и предложить сценарии для вывода юнит-экономики в плюс.
